@@ -7,8 +7,17 @@
   },
   "author": "kumar",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "http-server": "^0.11.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarmrcube/Voyants.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kumarmrcube/Voyants/issues"
+  },
+  "homepage": "https://github.com/kumarmrcube/Voyants#readme",
+  "description": ""
 }
